@@ -180,11 +180,11 @@ const testimonials = [
   },
   {
     testimonial:
-      "Nothing to show.",
-    name: "-",
-    designation: "-",
+      "Your exceptional skills, dedication, and teamwork have made a significant impact on the success of this project. Your contributions have not only resulted in a remarkable website but have also inspired us to strive for excellence in all our future endeavors.",
+    name: "Siddhesh Nikam",
+    designation: "User",
     company: "-",
-    image: "-",
+    image: "https://scontent.cdninstagram.com/v/t51.2885-19/361108662_826612798684832_1347121411853358939_n.jpg?stp=dst-jpg_s100x100&_nc_cat=105&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=fJxi8hHYIyEAX8P2c05&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.cdninstagram.com&oh=00_AfD8IbRlM3WJvm38AhkR5NBbVCmAfSd8cHPJ05HK2b2Mcg&oe=64F49C2B",
   },
   {
     testimonial:
