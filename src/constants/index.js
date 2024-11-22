@@ -180,19 +180,19 @@ const testimonials = [
   },
   {
     testimonial:
-      "Your exceptional skills, dedication, and teamwork have made a significant impact on the success of this project. Your contributions have not only resulted in a remarkable website but have also inspired us to strive for excellence in all our future endeavors.",
-    name: "Siddhesh Nikam",
-    designation: "User",
-    company: "-",
-    image: "https://scontent.cdninstagram.com/v/t51.2885-19/361108662_826612798684832_1347121411853358939_n.jpg?stp=dst-jpg_s100x100&_nc_cat=105&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=fJxi8hHYIyEAX8P2c05&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.cdninstagram.com&oh=00_AfD8IbRlM3WJvm38AhkR5NBbVCmAfSd8cHPJ05HK2b2Mcg&oe=64F49C2B",
+      "Your hard work, commitment, and collaboration have played a pivotal role in the success of the project. The website we've created together stands as a testament to your valuable contributions, and your efforts have motivated us to push for even greater achievements in the future. Thank you for being such an integral part of this journey.",
+    name: "Mayur N. (Former GDSE Member):",
+    designation: "Project Manager",
+    company: "SIEMENS",
+    image: "https://www.secunet.com/fileadmin/user_upload/01_Seitencontent/Produkt-_und_Serviceseiten/Industry/1Siemens_Logo.jpg",
   },
   {
     testimonial:
-      "Nothing to show.",
-    name: "-",
-    designation: "-",
-    company: "-",
-    image: "-",
+      "Your exceptional skills, dedication, and teamwork have made a significant impact on the success of this project. Your contributions have not only resulted in a remarkable website but have also inspired us to strive for excellence in all our future endeavors.",
+    name: "Siddhesh Nikam",
+    designation: "Engineer",
+    company: "LTIMindTree",
+    image: "https://scontent.cdninstagram.com/v/t51.2885-19/361108662_826612798684832_1347121411853358939_n.jpg?stp=dst-jpg_s100x100&_nc_cat=105&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=fJxi8hHYIyEAX8P2c05&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.cdninstagram.com&oh=00_AfD8IbRlM3WJvm38AhkR5NBbVCmAfSd8cHPJ05HK2b2Mcg&oe=64F49C2B",
   },
 ];
 
